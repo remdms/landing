@@ -1,0 +1,17 @@
+footer {
+  background-color: black;
+  text-align: center;
+  padding:60px;
+}
+
+footer a {
+  font-size: 30px;
+  color: green;
+}
+
+footer p{
+  color: rgb(230,230,230);
+}
+.fa-heart{
+  color: red;
+}
